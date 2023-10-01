@@ -1,5 +1,13 @@
 # SparseArray
 
+- [SparseArray](#sparsearray)
+  - [개요](#개요)
+  - [SparseArray 란](#sparsearray-란)
+  - [그렇다면 HashMap은?](#그렇다면-hashmap은)
+  - [결론](#결론)
+
+---
+
 ## 개요
 
 Google이 Jetpack Navigation 2.4.0 이전 버전을 위해서 확장 함수로 구현한 Multiple Navigation 이 있다. [코드 보기](https://github.com/android/architecture-components-samples/blob/8f4936b34ec84f7f058fba9732b8692e97c65d8f/NavigationAdvancedSample/app/src/main/java/com/example/android/navigationadvancedsample/NavigationExtensions.kt)  
