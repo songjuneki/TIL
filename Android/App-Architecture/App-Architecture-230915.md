@@ -78,7 +78,7 @@ UDF에서 **상태**는 한 방향으로만 흐른다.
 
 더 자세한 내용은 [Android 아키텍처 권장사항](https://developer.android.com/topic/architecture/recommendations?hl=ko)
 
-### UI Layer
+### [UI Layer](Ui-Layer/Ui-Layer-230919.md)
 
 UI 레이어(프레젠테이션 레이어 라고도 함)의 역할은 화면에 앱 데이터를 표시.
 사용자 상호작용(버튼 누르기 등) 또는 외부 입력(네트워크 응답 등)으로 인해 데이터가 변할 때마다 변경사항을 반영하도록 UI가 업데이트 되어야 함
